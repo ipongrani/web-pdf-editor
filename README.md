@@ -1,7 +1,7 @@
 
 # Web PDF Editor
 
-Please note that this project mimics and achieves PDF manipulation via converting the PDF into PNG images and stack up layers into the web canvas to provide page modificications effects. It can then be downloaded back to PDF file format.
+Please note that this project mimics and achieves PDF manipulation via converting the PDF into PNG images and stack up layers into the web canvas to provide page modificication effects. It can then be downloaded back to PDF file format.
 
 The texts may not necessarily match the original or even the styles and formatting.
 
